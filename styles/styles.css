@@ -1,0 +1,40 @@
+#thumbnail img:hover {
+	border: 3px solid #ccc;
+}
+
+#thumbnail img {
+	height: 100px;
+}
+
+#preview img {
+	height: 480px;
+}
+
+header {
+	margin-bottom: 15px;
+	border-bottom: 3px solid #ccc; /* line below */
+	background-color: #ADD8E6;
+}
+
+footer {
+	margin-top: 15px;
+	border-top: 3px solid #ccc; /* line above */
+	background-color: #ADD8E6;
+}
+
+.margin-bottom {
+	margin-bottom: 15px;
+}
+
+.margin {
+	margin-bottom: 15px;
+	margin-top: 15px;
+}
+
+.border {
+	border: 3px solid #ADD8E6;
+}
+
+.hidden {
+	display: none;
+}
